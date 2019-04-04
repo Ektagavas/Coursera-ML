@@ -1,2 +1,2 @@
 # Coursera-ML
-Programming Assignments of Machine Learning Course by Standford University on Coursera
+Programming Assignments and Slides from Machine Learning Course by Standford University on Coursera
